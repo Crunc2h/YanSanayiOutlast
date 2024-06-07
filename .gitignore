@@ -9,11 +9,9 @@
 /Assets/floor_materials_pack/
 /Assets/horror_hospital_pack/
 /Assets/horror_school_props/
-/Assets/Materials/
-/Assets/Prefabs/
 /Assets/ToolsPack1/
 /Assets/TutorialInfo/
-/Assets/Scenes/
+
 
 /[Tt]emp/
 /[Oo]bj/
@@ -59,14 +57,12 @@ ExportedObj/
 *.opendb
 *.VC.db
 *.shader
-*.meta
 *.asset
 *.mp3
 *.mp4
 *.jpg
 *.png
-*.txt
-*.json
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
